@@ -1,0 +1,5 @@
+celeba_hq	https://paperswithcode.com/dataset/celeba-hq
+cfmdd		https://www.kaggle.com/prithwirajmitra/covid-face-mask-detection-dataset
+hitl		https://humansintheloop.org/resources/datasets/medical-mask-dataset
+mfmmd		https://www.kaggle.com/loey1/medical-face-mask-detection-dataset
+wwmr-db		https://ieee-dataport.org/open-access/ways-wear-mask-or-respirator-wwmr-db
