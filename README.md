@@ -1,3 +1,4 @@
+<div align="center">
 
 # COMP6721 - Final Project Assignment
 
@@ -5,6 +6,8 @@ Predictions                | Mask Type
 :-------------------------:|:-------------------------:
 ![](https://github.com/AminAliari/mask-recon/blob/main/figs/fig1.png)  |  ![](https://github.com/AminAliari/mask-recon/blob/main/figs/fig2.png)
 ![](https://github.com/AminAliari/mask-recon/blob/main/figs/fig3.png)  |  ![](https://github.com/AminAliari/mask-recon/blob/main/figs/fig5.png)
+
+</div>
 
 ## Project Structure
 Here is our project folder structure and files with their descriptions.
